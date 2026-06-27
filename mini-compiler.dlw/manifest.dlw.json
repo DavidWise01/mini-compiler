@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-MINI_COMPILER",
+  "name": "THE MINI-COMPILER",
+  "universe": "LOGISMÓS",
+  "moniker": "⟦THE MINI-COMPILER:mini-compiler:2b7d98⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "2b7d98659d60f27bebf4bd19c326404425b94217e833f8b737e8286044169912",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
